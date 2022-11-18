@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studyNote/static/css/main.9ace3101.css",
+    "main.js": "/studyNote/static/js/main.f843da79.js",
+    "index.html": "/studyNote/index.html",
+    "main.9ace3101.css.map": "/studyNote/static/css/main.9ace3101.css.map",
+    "main.f843da79.js.map": "/studyNote/static/js/main.f843da79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ace3101.css",
+    "static/js/main.f843da79.js"
+  ]
+}
